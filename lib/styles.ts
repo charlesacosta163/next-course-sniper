@@ -1,0 +1,1 @@
+export const navLinkStyles = "w-full px-4 py-2 rounded-round bg-gray-200 shadow font-[500] flex gap-2 items-center duration-200 "
